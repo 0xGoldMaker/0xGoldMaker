@@ -1,6 +1,17 @@
+<!--suppress HtmlDeprecatedAttribute -->
+# Hello! 👋 I am a Blockchain Developer
+<div>
+<br/>
+- 🔭 Full-stack developer with 8+ years of experience designing and building scalable, high-performance blockchain, web and mobile applications<br/>
+- 🌱 Proficient in front-end technologies like React, Angular, and Vue.js, as well as back-end technologies like Node.js, Python, and PHP<br/>
+- 👍 Experienced in DevOps, CI/CD, and Cloud infrastructure, especially with AWS and Azure also GCP<br/>
+- 😍 Developed some AI Apps and integrated with web and ChatGPT.
+- 😉 Deep knowledge about deep learning, recommendation system and reinforcement system.</br>
+
+</div>
 
 ## 🛠 Skills
-* 🥈 Blockchain Development: [Solidity](https://soliditylang.org/), [Moralis](https://moralis.io), [Pancakeswap](https://pancakeswap.finance/), [Uniswap](https://Uniswap.org), [Binance](https://binance.com), [Ethereum](https://ethereum.org/), [Fantom](https://fantom.foundation/), [Solana](https://solana.com/), [Cosmos-SDK](https://docs.cosmos.network/), [ChainLink](https://chain.link/), [Jupiter](https://jup.ag/)
+* 🥈 Blockchain Development: [Solidity](https://soliditylang.org/), [Moralis](https://moralis.io), [Pancakeswap](https://pancakeswap.finance/), [Uniswap](https://Uniswap.org), [Binance](https://binance.com), [Ethereum](https://ethereum.org/), [Fantom](https://fantom.foundation/), [Solana](https://solana.com/), [Cosmos-SDK](https://docs.cosmos.network/), [ChainLink](https://chain.link/)
 * 🥇 Frontend Development: [Javascript](https://www.javascript.com/), [Typescript](https://www.typescriptlang.org/), [React.js](https://reactjs.org/) ( [Gatsby](https://www.gatsbyjs.com/), [Next.js](https://nextjs.org/) ), [Vue.js](https://vuejs.org/) ( [Nuxt.js](https://nuxtjs.org/), [Vuetify](https://vuetifyjs.com/)), [Angular](https://angular.io/)
 * 🥇 Backend Development: [Node.js](https://nodejs.org) ( [Express.js](https://expressjs.com/), [Nest.js](https://nestjs.com/),  [PHP](https://www.php.net/) ( [Laravel](https://laravel.com/), [CodeIgnitor](https://codeigniter.com/) ), [Python](https://www.python.org/) ( [Django](https://www.djangoproject.com/) ), [Java](https://www.java.com/) ( [Spring](https://spring.io/) )
 * 🥇 Hybrid Mobile App Development: [React-Native](https://reactjs.org/), [Ionic](https://ionicframework.com/), [NativeScript](https://nativescript.org/), [Flutter](https://flutter.dev/)
